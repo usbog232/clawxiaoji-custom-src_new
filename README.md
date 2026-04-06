@@ -45,3 +45,6 @@ npm run tauri build
 ## License
 
 MIT
+
+## macos下载地址
+https://github.com/usbog232/clawxiaoji-custom-src_new/releases
